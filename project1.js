@@ -19,7 +19,7 @@ data1 = [
     {id:100}
 ]
 
-data1 = [
+ data1 = [
     {id:[100,1002,400]}
 ]
 var product=[
